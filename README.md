@@ -21,11 +21,11 @@ Currently, I'm exploring **Generative AI and RAG** while strengthening my Machin
 ## 🚀 What I Build
 
 - 🤖 AI & Machine Learning Applications
-- 👁️ Computer Vision Systems
 - 🧠 Deep Learning Applications
+- 👁️ Computer Vision Systems
 - 🎨 Neural Style Transfer
 - 🏋️ Real-Time AI Applications
-- ✨ Generative AI & Basic RAG Projects
+- ✨ Generative AI & RAG Projects
 
 ---
 
@@ -108,12 +108,6 @@ AI-based image stylization application using **Neural Style Transfer and Adaptiv
 - Generative AI
 - Retrieval-Augmented Generation (RAG)
 - Building practical AI applications
-
----
-
-## 📊 GitHub Activity
-
-I actively build and improve AI/ML projects while learning new technologies.
 
 ---
 
