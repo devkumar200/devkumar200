@@ -1,6 +1,10 @@
-# Hi, I'm Devashish Kumar Prajapati 👋
+<div align="center">
 
-### AI/ML Enthusiast | Computer Vision | Python | PyTorch
+# Hi, I'm Devashish Kumar Prajapati
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI%2FML+Enthusiast;Machine+Learning+%26+Deep+Learning;Building+AI-Powered+Applications" alt="Typing SVG" />
+
+</div>
 
 ---
 
