@@ -64,33 +64,35 @@ AI-based image stylization application using **Neural Style Transfer and Adaptiv
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+`Java` `Python` `C`
 
 ### AI / ML
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+`Machine Learning` `Deep Learning` `Generative AI` `RAG`
 
 ### Computer Vision
 
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge)
+`OpenCV` `MediaPipe` `Face Recognition`
 
 ### Python Libraries
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+`NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-### Web & Database
+### Deep Learning
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+`PyTorch` `Torchvision`
+
+### Web & Frameworks
+
+`HTML` `CSS` `Flask` `Streamlit`
+
+### Database
+
+`SQL` `MySQL` `Supabase`
+
+### Tools
+
+`Git` `GitHub` `VS Code` `Jupyter Notebook`
 
 ---
 
@@ -107,17 +109,19 @@ AI-based image stylization application using **Neural Style Transfer and Adaptiv
 
 ## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devkumar200&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devkumar200&layout=compact&theme=github_dark&hide_border=true)
+I actively build and improve AI/ML projects while learning new technologies.
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devashish-kumar-prajapati-304168369/)
+📧 **Email:** [devashishkuma12@gmail.com](mailto:devashishkuma12@gmail.com)
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/LogicByDev/)
+📱 **Phone:** +91-9335403443
+
+💼 **LinkedIn:** [Devashish Kumar Prajapati](https://www.linkedin.com/in/devashish-kumar-prajapati-304168369/)
+
+💻 **LeetCode:** [LogicByDev](https://leetcode.com/u/LogicByDev/)
 
 ---
 
